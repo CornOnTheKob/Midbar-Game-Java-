@@ -3,6 +3,17 @@
 **By:** Jacob Lorenzo A. Cano & Maigela Zia L. Garcia  
 **Course:** CSCI 22
 
+## How to Run
+1. Open your terminal and navigate to the project directory.  
+2. Compile the code with:
+   ```bash
+   javac *.java
+   java GameStarter.java
+
+   *For local playing purposes only.
+
+3. Server Multiplayer is currently disabled as the software used for that (AWS) is not used anymore. 
+
 ## Introduction
 
 *Midbar: The Secrets of the Lost Wilderness* is a treasure-hunting RPG where two players, twins Martin and Mary, embark on a quest to save their sick grandfather, Lazarus. To heal him, they must find a magical crystal hidden in the lost wilderness. This crystal can only be accessed after collecting the Four Elemental Gemstones: Wind, Water, Earth, and Fire.  
